@@ -10,7 +10,7 @@ require_once("sdata-modules.php");
 
 
 ##############################################################################################################
-$config['deviceCode'] 		= '3551230xxxxxxx';
+$config['deviceCode'] 		= '3551230AENJEAYE';
 $config['tk'] 				= 'ACGmNhoexxxxxx';
 $config['token'] 			= '35a7oDTxxxxxxx';
 $config['uuid'] 			= 'abdacad4xxxxxx4';
